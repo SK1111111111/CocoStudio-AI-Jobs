@@ -1,0 +1,26 @@
+{
+  "schema": "cocostudio.cloud-job.v1",
+  "jobId": "Baby_Elephant_cloud_20260628",
+  "characterName": "Baby Elephant",
+  "prompt": "Cute nursery-rhyme baby elephant with consistent front, left, right, and back geometry",
+  "style": "character",
+  "quality": "production",
+  "output": "glb",
+  "rigRequired": true,
+  "views": {
+    "front": "front.png",
+    "left": "left.png",
+    "right": "right.png",
+    "back": "back.png"
+  },
+  "status": "image_uploaded",
+  "statusSteps": [
+    "image_uploaded",
+    "draft_mesh_generated",
+    "texture_applied",
+    "rig_pending",
+    "rig_completed",
+    "animation_ready"
+  ],
+  "createdAt": "2026-06-28T01:15:00Z"
+}

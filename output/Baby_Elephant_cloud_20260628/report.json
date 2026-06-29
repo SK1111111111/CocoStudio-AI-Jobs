@@ -1,0 +1,16 @@
+{
+  "status": "rig_pending",
+  "viewsReceived": [
+    "back",
+    "front",
+    "left",
+    "right"
+  ],
+  "engine": "Hunyuan3D-2mv",
+  "updatedAt": "2026-06-29T13:57:31Z",
+  "mesh": true,
+  "textureApplied": false,
+  "rigReady": false,
+  "animationReady": false,
+  "note": "No cloud rig command configured."
+}
